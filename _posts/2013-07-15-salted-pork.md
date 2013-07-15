@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Salted Pork"
+title: "塩豚"
 description: ""
 category: meat
 tags: []
 ---
 {% include JB/setup %}
 
-## 塩豚
 
 
