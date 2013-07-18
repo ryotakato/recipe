@@ -1,0 +1,3 @@
+[submodule "assets/themes/the-minimum/css-social-buttons"]
+	path = assets/themes/the-minimum/css-social-buttons
+	url = git@github.com:samcollins/css-social-buttons.git
